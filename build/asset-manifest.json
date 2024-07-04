@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/magal_vol_list/static/css/main.e6c13ad2.css",
+    "main.js": "/magal_vol_list/static/js/main.97add397.js",
+    "static/js/453.59efd65b.chunk.js": "/magal_vol_list/static/js/453.59efd65b.chunk.js",
+    "index.html": "/magal_vol_list/index.html",
+    "main.e6c13ad2.css.map": "/magal_vol_list/static/css/main.e6c13ad2.css.map",
+    "main.97add397.js.map": "/magal_vol_list/static/js/main.97add397.js.map",
+    "453.59efd65b.chunk.js.map": "/magal_vol_list/static/js/453.59efd65b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.97add397.js"
+  ]
+}
